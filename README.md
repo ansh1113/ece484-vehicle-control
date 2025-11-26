@@ -561,7 +561,7 @@ ece484-vehicle-control/
 
 ---
 
-## 📖 Academic Integrity Statement
+## Academic Integrity Statement
 
 This repository contains coursework from ECE 484 - Principles of Safe Autonomy at UIUC.  
 Shared for portfolio and educational purposes after course completion.
@@ -588,7 +588,7 @@ MIT License - See [LICENSE](LICENSE) for details
 
 ---
 
-## 📞 Contact
+## Contact
 
 For questions about this implementation:
 - **Ansh Bhansali**: anshbhansali5@gmail.com
