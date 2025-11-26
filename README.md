@@ -7,7 +7,7 @@
 
 **Lateral and longitudinal vehicle control for autonomous racing - UIUC ECE 484 Safe Autonomy**
 
-## 🎯 Key Results
+## Key Results
 
 - ✅ **Fast Lap Time** - 67-73 seconds (target: <130s)
 - ✅ **100% Waypoint Success** - All waypoints completed safely
@@ -17,7 +17,7 @@
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [System Architecture](#system-architecture)
@@ -59,7 +59,7 @@ This project implements **autonomous vehicle control** for a Polaris GEM e4 elec
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 ```
 ┌─────────────────┐
 │  Waypoint List  │
@@ -117,7 +117,7 @@ This project implements **autonomous vehicle control** for a Polaris GEM e4 elec
 
 ---
 
-## 🔬 Control Algorithms
+## Control Algorithms
 
 ### Lateral Control: Pure Pursuit
 
@@ -284,7 +284,7 @@ else:
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ### Prerequisites
 ```bash
@@ -330,7 +330,7 @@ source install/setup.bash
 
 ---
 
-## 💻 Usage
+## Usage
 
 ### Quick Start
 
@@ -374,7 +374,7 @@ done
 
 ---
 
-## 📊 Experimental Results
+## Experimental Results
 
 ### Lap Time Comparison
 
@@ -420,7 +420,7 @@ Acceleration profile from Approach 5:
 
 ---
 
-## 📈 Performance Analysis
+## Performance Analysis
 
 ### Vehicle Trajectory
 
@@ -451,7 +451,7 @@ Speed variation throughout lap:
 
 ---
 
-## 🎥 Demo Videos
+## Demo Videos
 
 **Video Links**: [Google Drive - MP2 Demos](https://drive.google.com/drive/folders/1ICG73adK5TKaqPeVs3uwdowgrdKpFXaQ?usp=drive_link)
 
@@ -464,7 +464,7 @@ The simulation shows:
 
 ---
 
-## 🛠️ Technical Implementation
+## Technical Implementation
 
 ### Pure Pursuit Implementation
 ```python
@@ -535,27 +535,16 @@ def compute_target_velocity(self, current_pos, waypoints):
 
 ---
 
-## 📚 Course Context
+## Course Context
 
 **Course**: ECE 484 - Principles of Safe Autonomy  
 **Institution**: University of Illinois Urbana-Champaign  
 **Semester**: Fall 2025  
-**Project Type**: Machine Problem 2 (Group Project)  
-**Team**: Autoshield
+**Project Type**: Machine Problem 2 
 
 ---
 
-## 👥 Team
-
-**Team Autoshield**
-- Ansh Bhansali - anshb3@illinois.edu
-- Het Patel - hcp4@illinois.edu
-- Sunny Deshpande - sunnynd2@illinois.edu
-- Keisuke Ogawa - ogawa3@illinois.edu
-
----
-
-## 📁 Project Structure
+## Project Structure
 ```
 ece484-vehicle-control/
 ├── controller.py           # Main control algorithms
@@ -586,17 +575,16 @@ Violations of academic integrity policies will be reported.
 
 ---
 
-## 📝 License
+## License
 
 MIT License - See [LICENSE](LICENSE) for details
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - ECE 484 course staff for track design and infrastructure
 - UIUC Robotics Lab for Polaris GEM e4 platform
-- Team Autoshield members for collaborative development
 
 ---
 
