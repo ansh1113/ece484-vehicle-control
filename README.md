@@ -544,7 +544,7 @@ def compute_target_velocity(self, current_pos, waypoints):
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```
 ece484-vehicle-control/
 ├── controller.py           # Main control algorithms
